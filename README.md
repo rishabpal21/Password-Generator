@@ -18,7 +18,7 @@ A simple and responsive Password Generator built using HTML, CSS, and JavaScript
 
 🚀 Live Demo
 
-Add your deployed project URL here.
+https://rishabpal21.github.io/Password-Generator/
 
 📌 About the Project
 
@@ -26,4 +26,4 @@ This project was developed to practice frontend web development, JavaScript logi
 
 👨‍💻 Author
 
-Rishab Pal & 
+Rishab Pal 
